@@ -1,4 +1,5 @@
-🍕** Pizza Sales Dashboard**
+🍕 **Pizza Sales Dashboard** 
+
 This project presents a Pizza Sales Dashboard built using Power BI, SQL, and Power Query. The goal was to analyze and visualize pizza sales data based on business requirements to generate actionable insights.
 
 📌 **Project Overview**
